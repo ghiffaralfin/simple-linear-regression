@@ -19,8 +19,12 @@ Mentee assignment from IBM Advance AI @ Infinite Learning project completion of 
 ## Mentee Info:
 
 
-| Name :| Ghiffar ALfin Faiz |
+| Kelompok :| 4 |
 |--------|--------------------|
+| No | Nama - nama Anggota |
+| 1 | Ghiffar Alfin Faiz |
+| 2 | Carlos Jonathan Gea |
+| 3 | Ardian Fikri Abdulah |
 | Program : | IBM Advanced AI |
 
 <br>
